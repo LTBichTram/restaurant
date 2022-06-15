@@ -31,4 +31,5 @@
 Html, Css, JavaScript
 
 ## Tool
-Swiper
+- Swiper
+- LightGallery
